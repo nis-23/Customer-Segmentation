@@ -5,6 +5,32 @@ Using a clustering algorithm to segment credit card customers
 
 Project Organization
 
-customer_segmentation
-
-![output-onlinetools](https://github.com/nis-23/Customer-Segmentation/assets/55850453/50954bfd-6d6d-498e-b59d-51f92581312b)
+<pre>
+.
+├── LICENSE
+├── README.md
+├── data
+│   └── raw
+│       └── customer_segmentation.csv
+├── notebooks
+│   └── Reports
+│       ├── 04-nishant-main_project_walkthrough.ipynb
+│       └── EDA_Report.ipynb
+├── reports
+│   └── figures
+│       ├── MOB_scatterplot.png
+│       └── elbow_curve.png
+├── requirements.txt
+└── src
+    ├── __init__.py
+    ├── features
+    │   ├── __init__.py
+    │   ├── __pycache__
+    │   │   └── build_features.cpython-310.pyc
+    │   └── build_features.py
+    └── models
+        ├── __init__.py
+        ├── __pycache__
+        │   └── predict_model.cpython-310.pyc
+        └── predict_model.py
+</pre>
