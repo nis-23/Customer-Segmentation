@@ -3,7 +3,7 @@ Credit Card Customer Segmentation
 
 Using a clustering algorithm to segment credit card customers
 
-Project Organization
+## Project Organization
 
 <pre>
 .
