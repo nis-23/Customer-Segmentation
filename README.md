@@ -7,7 +7,7 @@ Project Organization
 
 <pre>
 .
-├── LICENSE \n
+├── LICENSE <br>
 ├── README.md
 ├── data
 │   └── raw
