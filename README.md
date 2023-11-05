@@ -2,6 +2,8 @@ Credit Card Customer Segmentation
 ==============================
 
 Using a clustering algorithm to segment credit card customers
+[Main Project Walkthrough](https://nbviewer.org/github/nis-23/Customer-Segmentation/blob/main/notebooks/Reports/04-nishant-main_project_walkthrough.ipynb#learning-iteration)
+
 
 ## Project Organization
 
