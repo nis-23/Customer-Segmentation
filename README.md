@@ -35,3 +35,15 @@ Using a clustering algorithm to segment credit card customers
         └── predict_model.py
 </pre>
 
+
+## Table of Contents 
+
+| Sr. No. | Topic                                   |
+| ------- | --------------------------------------- |
+| 1       | Overview                                |
+| 2       | EDA - Insights & Actionables            |
+| 3       | Initial Model Building                  |
+| 4       | Learning & Iteration                   |
+| 5       | Cluster Definition & Actionable Business Strategy |
+
+
