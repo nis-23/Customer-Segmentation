@@ -40,12 +40,11 @@ Using a clustering algorithm to segment credit card customers
 
 | Sr. No. | Topic                                           |
 | ------- | ----------------------------------------------- |
-| 1       | [Overview](04-nishant-main_project_walkthrough.ipynb#overview) |
-| 2       | [EDA - Insights & Actionables](04-nishant-main_project_walkthrough.ipynb#eda) |
-| 3       | [Initial Model Building](04-nishant-main_project_walkthrough.ipynb#initial-model-building) |
-| 4       | [Learning & Iteration](04-nishant-main_project_walkthrough.ipynb#learning-iteration) |
-| 5       | [Cluster Definition & Actionable Business Strategy](04-nishant-main_project_walkthrough.ipynb#cluster-definition-actionable-business-strategy) |
-
+| 1       | [Overview](Customer-Segmentation/notebooks/Reports/04-nishant-main_project_walkthrough.ipynb#overview) |
+| 2       | [EDA - Insights & Actionables](Customer-Segmentation/notebooks/Reports/04-nishant-main_project_walkthrough.ipynb#eda) |
+| 3       | [Initial Model Building](Customer-Segmentation/notebooks/Reports/04-nishant-main_project_walkthrough.ipynb#initial-model-building) |
+| 4       | [Learning & Iteration](Customer-Segmentation/notebooks/Reports/04-nishant-main_project_walkthrough.ipynb#learning-iteration) |
+| 5       | [Cluster Definition & Actionable Business Strategy](Customer-Segmentation/notebooks/Reports/04-nishant-main_project_walkthrough.ipynb#cluster-definition-actionable-business-strategy) |
 
 
 
